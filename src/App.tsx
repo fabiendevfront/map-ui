@@ -1,12 +1,14 @@
-import { Button } from "@radix-ui/themes";
+import Layout from "./layout/Layout";
+import AppRouter from "./router/AppRouter.jsx";
 
 const App = () => {
 
     return (
-        <>
-            <h1 className="text-3xl font-bold underline">Home</h1>
-            <Button>Test bouton</Button>
-        </>
+        <div className="app">
+            <Layout>
+                <AppRouter />
+            </Layout>
+        </div>
     );
 };
 
