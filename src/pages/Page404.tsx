@@ -1,3 +1,4 @@
+// Component for Page404
 const Page404 = () => {
     return (
         <div>

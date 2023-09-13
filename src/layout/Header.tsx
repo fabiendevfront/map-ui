@@ -1,3 +1,4 @@
+// Component for Header
 const Header = () => {
     return (
         <div>

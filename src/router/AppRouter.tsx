@@ -2,11 +2,7 @@ import { Routes, Route } from "react-router-dom";
 import Home from "../pages/Home";
 import Page404 from "../pages/Page404";
 
-/**
-* AppRouter component manage routing in app, that renders different routes and corresponding components.
-* @component
-* @returns {TSX.Element}
-*/
+// AppRouter component manage routing in app, that renders different routes and corresponding components.
 const AppRouter = () => {
 
     return (

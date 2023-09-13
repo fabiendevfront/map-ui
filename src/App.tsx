@@ -1,6 +1,7 @@
 import Layout from "./layout/Layout";
-import AppRouter from "./router/AppRouter.jsx";
+import AppRouter from "./router/AppRouter";
 
+// The App component returns TSX element that renders Layout component which contains an AppRouter component.
 const App = () => {
 
     return (
