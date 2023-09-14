@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@radix-ui/themes": "^1.1.2",
     "@types/leaflet": "^1.9.4",
     "leaflet": "^1.9.4",
     "react": "^18.2.0",

@@ -1,4 +1,6 @@
 import { useFetch } from "../services/useFetch.jsx";
+import Filters from "../components/Filters";
+import Map from "../components/Map.js";
 
 // Component for Homepage
 const Home = () => {
@@ -13,8 +15,10 @@ const Home = () => {
             ) : error && !loading ? (
                 <span>Erreur lors du chargement des données</span>
             ) : data ? (
-                <section className={`home ${loadingComplete ? "loaded" : ""}`}>
-                    <h1>Home</h1>
+                <section className={`home flex flex-col gap-8 ${loadingComplete ? "loaded" : ""}`}>
+                    <h1>Refuges dans les Pyrénées</h1>
+                    <Filters />
+                    <Map />
                 </section>) : (
                 <span>La page rencontre un problème</span>
             )}

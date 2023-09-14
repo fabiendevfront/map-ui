@@ -5,7 +5,7 @@ import AppRouter from "./router/AppRouter";
 const App = () => {
 
     return (
-        <div className="app">
+        <div className="app h-screen flex flex-col md:flex-row ">
             <Layout>
                 <AppRouter />
             </Layout>
