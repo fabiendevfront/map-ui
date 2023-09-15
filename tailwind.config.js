@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
+    darkMode: "class",
     content: [
         "./index.html",
         "./src/**/*.{js,ts,jsx,tsx}",
@@ -9,16 +10,15 @@ export default {
             headings: ["Inter", "sans-serif"],
             body: ["Noto Sans", "sans-serif"]
         },
-        colors: {
-            "primary": "#e1ae9a",
-            "secondary": "#4a5956",
-            "terciary": "#65897b",
-            "gray": {
-                100: "#f3f4f6",
-                700: "#374151",
+        extend: {
+            colors: {
+                "primary": "#e1ae9a",
+                "secondary": "#4a5956",
+                "terciary": "#65897b",
             },
         },
-        extend: {},
     },
-    plugins: [],
+    plugins: [
+        require("@tailwindcss/forms"),
+    ],
 };

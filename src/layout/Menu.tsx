@@ -1,11 +1,11 @@
 import logo from "../assets/logo.png";
 import Search from "../components/Search";
+import Filters from "../components/Filters";
 
-
-// Component for Header
+// Component for Menu
 const Menu = () => {
     return (
-        <div className="bg-secondary shadow-md shadow-secondary py-6 px-6 flex flex-col gap-8 md:items-center md:w-2/6 md:max-w-[225px]">
+        <div className="bg-secondary shadow-md shadow-secondary py-6 px-6 flex flex-col gap-8 md:fixed md:h-full md:items-center md:w-2/6 md:max-w-[275px]">
             <header className="flex justify-between items-center">
                 <h1>
                     <img src={logo} className="h-32 md:h-40 md:min-w-min" alt="Logo du header" />
@@ -17,10 +17,11 @@ const Menu = () => {
                     </svg>
                 </div>
             </header>
-            <div className="hidden md:flex-1 md:flex md:flex-col md:justify-between md:items-center">
+            <div className="hidden mt-5 md:flex-1 md:flex md:flex-col md:justify-between md:items-center">
                 <Search />
+                <Filters />
                 <footer className="center">
-                    <p className="text-primary">Copyright 2023</p>
+                    <p className="text-primary">Copyright ©{new Date().getFullYear()}</p>
                 </footer>
             </div>
         </div>

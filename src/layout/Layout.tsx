@@ -6,7 +6,7 @@ const Layout = ({ children } : { children: React.ReactNode }) => {
     return (
         <>
             <Menu />
-            <main className="main h-full py-8 px-6 md:w-full">{children}</main>
+            <main className="main h-full py-8 pl-6 pr-6 md:pl-[310px] md:w-full">{children}</main>
         </>
     );
 };
