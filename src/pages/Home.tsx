@@ -11,14 +11,23 @@ const Home = () => {
     const [formattedShelters, setFormattedShelters] = useState<FormattedShelters>([]);
 
     useEffect(() => {
-        const formatShelters = async () => {
-            if (data) {
-                const formatted = await sheltersFormat(data);
-                setFormattedShelters(formatted);
-            }
-        };
+        const storedShelters = localStorage.getItem("shelters");
 
-        formatShelters();
+        if (storedShelters) {
+            const parsed = JSON.parse(storedShelters);
+            setFormattedShelters(parsed);
+        } else {
+            const formatShelters = async () => {
+                if (data) {
+                    const formatted = await sheltersFormat(data);
+                    setFormattedShelters(formatted);
+
+                    localStorage.setItem("shelters", JSON.stringify(formatted));
+                }
+            };
+
+            formatShelters();
+        }
     }, [data]);
 
 
