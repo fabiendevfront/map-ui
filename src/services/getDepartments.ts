@@ -1,6 +1,4 @@
-type CodeToDepartmentType = {
-    [key: string]: string;
-};
+import { CodeToDepartmentType } from "../types/types";
 
 const codeToDepartment: CodeToDepartmentType = {
     "09": "Ariège",

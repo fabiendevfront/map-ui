@@ -1,8 +1,9 @@
-const Map = () => {
+import { MapProps } from "../types/types.ts";
+
+const Map = (props: MapProps) => {
+    console.log(props.shelters);
     return (
-        <div className="w-full h-96 bg-primary">
-            <h2>Map</h2>
-        </div>
+        <h2>Maps</h2>
     );
 };
 
