@@ -34,6 +34,11 @@ export type MapProps = {
     shelters: FormattedShelters;
 };
 
+// Represents props for the CustomMapPopup component, including a single shelter
+export type CustomMapPopupProps = {
+    shelter: FormattedShelters[number];
+}
+
 // Represents a mapping of department codes to department names
 export type CodeToDepartmentType = {
     [key: string]: string;

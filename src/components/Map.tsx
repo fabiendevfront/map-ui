@@ -1,5 +1,6 @@
 import { MapProps } from "../types/types.ts";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
+import CustomMapPopup from "./CustomMapPopup.tsx";
 
 const Map = (props: MapProps) => {
     const mapTilerToken = import.meta.env.VITE_MAPTILER_TOKEN;
@@ -8,7 +9,7 @@ const Map = (props: MapProps) => {
         <MapContainer
             center={[42.6461, 0.0711]}
             zoom={8}
-            style={{ height: "700px", width: "100%" }}
+            style={{ height: "600px", width: "100%" }}
         >
             <TileLayer
                 url={`https://api.maptiler.com/maps/topo-v2/{z}/{x}/{y}.png?key=${mapTilerToken}`}
@@ -19,12 +20,8 @@ const Map = (props: MapProps) => {
                     key={index}
                     position={[shelter.latitude, shelter.longitude]}
                 >
-                    <Popup>
-                        <div>
-                            <h3>{shelter.name}</h3>
-                            <p>Département: {shelter.department}</p>
-                            <p>Altitude: {shelter.altitude}</p>
-                        </div>
+                    <Popup className="customMapPopup">
+                        <CustomMapPopup shelter={shelter} />
                     </Popup>
                 </Marker>
             ))}
