@@ -1,11 +1,23 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Presentation
 
-Currently, two official plugins are available:
+[In progress] Project to display a map listing the refuges in the Pyrenees. Technologies: React, TypeScript, Tailwind CSS and Leaflet.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Requirements
+
+* [NodeJS](https://nodejs.org/en/)
+* [NPM](https://www.npmjs.com/)
+
+## Launching the project
+
+This project was built using [Vite.js](https://vitejs.dev/).
+
+* Clone this project: [https://github.com/fabiendevfront/map-ui](https://github.com/fabiendevfront/map-ui)
+* Go to folder and open a terminal window
+* Install dependencies with `npm install`
+* Start application with `npm run dev`, allow you to run at http://localhost:5173/
+* For build App for production use `npm run build`
 
 ## Expanding the ESLint configuration
 
