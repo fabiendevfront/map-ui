@@ -29,6 +29,12 @@ export type FormattedShelters = {
     longitude: number;
 }[];
 
+// Represents the shape of the shelter data store
+export type SheltersStore = {
+    shelters: FormattedShelters;
+    setShelters: (data: FormattedShelters) => void;
+};
+
 // Represents props for the Map component, including an array of shelters
 export type MapProps = {
     shelters: FormattedShelters;
