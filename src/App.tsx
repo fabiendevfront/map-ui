@@ -3,18 +3,16 @@ import AppRouter from "./router/AppRouter";
 import { useEffect } from "react";
 import { useSheltersStore } from "./services/useSheltersStore";
 import { useFetch } from "./services/useFetch.tsx";
-import { sheltersFormat } from "./utils/sheltersFormat.ts";
 
 // The App component returns TSX element that renders Layout component which contains an AppRouter component.
 const App = () => {
-    const { setShelters } = useSheltersStore();
     const { data } = useFetch("/data/shelters.geojson");
+    const { setShelters } = useSheltersStore();
 
     useEffect(() => {
         const formatShelters = async () => {
             if (data) {
-                const formatted = await sheltersFormat(data);
-                setShelters(formatted);
+                setShelters(data);
             }
         };
         formatShelters();

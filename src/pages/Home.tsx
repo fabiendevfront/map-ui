@@ -1,6 +1,7 @@
 import { useSheltersStore } from "../services/useSheltersStore";
 import { useFetch } from "../services/useFetch.tsx";
 import Map from "../components/Map.js";
+import Loader from "../components/Loader.jsx";
 
 // Component for Homepage
 const Home = () => {
@@ -10,7 +11,9 @@ const Home = () => {
     return (
         <>
             {loading ? (
-                <span>Chargement en cours</span>
+                <div className="h-full flex flex-col justify-center items-center">
+                    <Loader />
+                </div>
             ) : error && !loading ? (
                 <span>Erreur lors du chargement des données</span>
             ) : shelters ? (

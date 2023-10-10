@@ -25,7 +25,7 @@ const Search = () => {
                     name="search"
                     id="search"
                     className="w-full rounded-md border-0 py-1.5 pl-9 pr-3 text-gray-900 ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-primary text-sm leading-6"
-                    placeholder="Nom, ville..."
+                    placeholder="Nom du refuge.."
                     onChange={handleSearchInputChange}
                 />
             </div>

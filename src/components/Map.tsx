@@ -1,7 +1,7 @@
-// import { MapProps } from "../types/types.ts";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import CustomMapPopup from "./CustomMapPopup.tsx";
 import { useSheltersStore } from "../services/useSheltersStore";
+
 
 const Map = () => {
     const { shelters, searchQuery = "" } = useSheltersStore();

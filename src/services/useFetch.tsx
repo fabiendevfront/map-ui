@@ -1,9 +1,11 @@
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
+import { sheltersFormat } from "../utils/sheltersFormat.ts";
+import { FormattedShelters } from "../types/types.ts";
 
 // A custom hook for fetching data from a specified URL.
 export const useFetch = (url : string) => {
-    const [data, setData] = useState(null);
+    const [data, setData] = useState<FormattedShelters | null>(null);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(false);
     const [loadingComplete, setLoadingComplete] = useState(false);
@@ -21,7 +23,8 @@ export const useFetch = (url : string) => {
             try {
                 const response = await fetch(url);
                 const dataJSON = await response.json();
-                setData(dataJSON);
+                const formatted = await sheltersFormat(dataJSON);
+                setData(formatted);
             } catch (error) {
                 console.error(error);
                 setError(true);
