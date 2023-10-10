@@ -10,25 +10,14 @@ const App = () => {
     const { setShelters } = useSheltersStore();
     const { data } = useFetch("/data/shelters.geojson");
 
-
     useEffect(() => {
-        const storedShelters = localStorage.getItem("shelters");
-
-        if (storedShelters) {
-            const parsed = JSON.parse(storedShelters);
-            setShelters(parsed);
-        } else {
-            const formatShelters = async () => {
-                if (data) {
-                    const formatted = await sheltersFormat(data);
-                    setShelters(formatted);
-
-                    localStorage.setItem("shelters", JSON.stringify(formatted));
-                }
-            };
-
-            formatShelters();
-        }
+        const formatShelters = async () => {
+            if (data) {
+                const formatted = await sheltersFormat(data);
+                setShelters(formatted);
+            }
+        };
+        formatShelters();
     }, [data, setShelters]);
 
     return (

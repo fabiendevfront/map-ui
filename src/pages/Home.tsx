@@ -1,11 +1,11 @@
 import { useSheltersStore } from "../services/useSheltersStore";
-import { useFetch } from "../services/useFetch.tsx"; // Importez le hook useFetch
+import { useFetch } from "../services/useFetch.tsx";
 import Map from "../components/Map.js";
 
 // Component for Homepage
 const Home = () => {
-    const { shelters } = useSheltersStore(); // Utilisez useSheltersStore pour accéder aux données de refuges
-    const { loading, error, loadingComplete } = useFetch("/data/shelters.geojson"); // Utilisez le hook useFetch pour gérer les états
+    const { shelters } = useSheltersStore();
+    const { loading, error, loadingComplete } = useFetch("/data/shelters.geojson");
 
     return (
         <>
@@ -16,7 +16,7 @@ const Home = () => {
             ) : shelters ? (
                 <section className={`home flex flex-col gap-8 ${loadingComplete ? "loaded" : ""}`}>
                     <h1>Refuges dans les Pyrénées</h1>
-                    <Map shelters={shelters} />
+                    <Map />
                 </section>) : (
                 <span>La page rencontre un problème</span>
             )}

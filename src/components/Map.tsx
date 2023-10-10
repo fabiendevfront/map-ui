@@ -1,9 +1,16 @@
-import { MapProps } from "../types/types.ts";
+// import { MapProps } from "../types/types.ts";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import CustomMapPopup from "./CustomMapPopup.tsx";
+import { useSheltersStore } from "../services/useSheltersStore";
 
-const Map = (props: MapProps) => {
+const Map = () => {
+    const { shelters, searchQuery = "" } = useSheltersStore();
     const mapTilerToken = import.meta.env.VITE_MAPTILER_TOKEN;
+
+    // Filter shelters by search term
+    const filteredShelters = shelters.filter((shelter) =>
+        shelter.name.toLowerCase().includes(searchQuery.toLowerCase())
+    );
 
     return (
         <MapContainer
@@ -15,7 +22,7 @@ const Map = (props: MapProps) => {
                 url={`https://api.maptiler.com/maps/topo-v2/{z}/{x}/{y}.png?key=${mapTilerToken}`}
                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
             />
-            {props.shelters.map((shelter, index) => (
+            {filteredShelters.map((shelter, index) => (
                 <Marker
                     key={index}
                     position={[shelter.latitude, shelter.longitude]}

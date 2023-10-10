@@ -32,12 +32,9 @@ export type FormattedShelters = {
 // Represents the shape of the shelter data store
 export type SheltersStore = {
     shelters: FormattedShelters;
+    searchQuery?: string;
     setShelters: (data: FormattedShelters) => void;
-};
-
-// Represents props for the Map component, including an array of shelters
-export type MapProps = {
-    shelters: FormattedShelters;
+    setSearchQuery: (query: string) => void;
 };
 
 // Represents props for the CustomMapPopup component, including a single shelter

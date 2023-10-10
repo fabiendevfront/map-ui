@@ -1,4 +1,14 @@
+import { ChangeEvent } from "react";
+import { useSheltersStore } from "../services/useSheltersStore";
+
 const Search = () => {
+    const { setSearchQuery } = useSheltersStore();
+
+    const handleSearchInputChange = (e: ChangeEvent<HTMLInputElement>) => {
+        const query = e.target.value;
+        setSearchQuery(query);
+    };
+
     return (
         <div>
             <label htmlFor="search">
@@ -16,6 +26,7 @@ const Search = () => {
                     id="search"
                     className="w-full rounded-md border-0 py-1.5 pl-9 pr-3 text-gray-900 ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-primary text-sm leading-6"
                     placeholder="Nom, ville..."
+                    onChange={handleSearchInputChange}
                 />
             </div>
         </div>
