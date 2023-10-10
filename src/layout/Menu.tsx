@@ -8,7 +8,7 @@ const Menu = () => {
         <div className="bg-secondary shadow-md shadow-secondary py-6 px-6 flex flex-col gap-8 md:fixed md:h-full md:items-center md:w-2/6 md:max-w-[275px]">
             <header className="flex justify-between items-center">
                 <h1>
-                    <img src={logo} className="h-32 md:h-40 md:min-w-min" alt="Logo du header" />
+                    <img src={logo} className="h-32 md:h-auto md:w-full" alt="Logo MapUI" />
                 </h1>
                 <div className="flex justify-between items-center gap-2 cursor-pointer md:hidden">
                     <p className="text-primary text-xl">Menu</p>
@@ -18,10 +18,12 @@ const Menu = () => {
                 </div>
             </header>
             <div className="hidden mt-5 md:flex-1 md:flex md:flex-col md:justify-between md:items-center">
-                <Search />
-                <Filters />
+                <div className="flex flex-col gap-10">
+                    <Search />
+                    <Filters />
+                </div>
                 <footer className="center">
-                    <p className="text-primary">Copyright ©{new Date().getFullYear()}</p>
+                    <p className="text-primary">MapUI ©{new Date().getFullYear()}</p>
                 </footer>
             </div>
         </div>
