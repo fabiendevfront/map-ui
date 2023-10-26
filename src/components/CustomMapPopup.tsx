@@ -1,14 +1,32 @@
+import { useState, useEffect } from "react";
 import { CustomMapPopupProps } from "../types/types.ts";
 import { Icon } from "@iconify/react";
+import { getDepartments } from "../services/getDepartments.ts";
 
 const CustomMapPopup = ({ shelter }: CustomMapPopupProps) => {
+    const [department, setDepartment] = useState("");
+
+    useEffect(() => {
+        const getDepartmentsName = async () => {
+            try {
+                const departmentName = await getDepartments(shelter.latitude, shelter.longitude);
+                setDepartment(departmentName);
+            } catch (error) {
+                console.error("Erreur lors de la récupération des données.", error);
+            }
+        };
+
+        getDepartmentsName();
+
+    }, [shelter.latitude, shelter.longitude]);
+
     return (
         <div className="rounded">
             <div className="bg-terciary py-4 px-4 rounded-t-lg">
                 <h3 className="text-2xl font-bold text-white text-center">{shelter.name}</h3>
             </div>
             <div className="p-4">
-                <p><span className="text-terciary font-bold">Département:</span> {shelter.department}</p>
+                <p><span className="text-terciary font-bold">Département:</span>{department}</p>
                 <p><span className="text-terciary font-bold">Altitude:</span> {shelter.altitude !== "Inconnu" ? shelter.altitude + "m" : "Inconnu"}</p>
                 <p className="text-terciary font-bold">
                                     Voir la meteo:

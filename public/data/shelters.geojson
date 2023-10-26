@@ -7,94 +7,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -0.52863158190558,
-            42.787921181159
-          ]
-        },
-        "properties": {
-          "name": "El'Aguila Refugio",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=803",
-          "descriptif": "attention ce n est pas vraiment un refuge l auberge el aguila est nee en 1981 du reve de certains amoureux de ces montagnes qui ont transforme un chalet familial en 1ere refuge de montagne dans une station de ski candanchu apres plusieurs reformes les travaux les plus importants ont ete realises en 1992 pour tenir compte de la distribution actuelle sur 2 etages de plusieurs chambres en 1997 les chambres quadruples avec salle de bains semblaient offrir un meilleur service ",
-          "commentaire": "Muy bien. Abierto incluso cuando no hay temporada de ski pero llamar antes. Buena comida. Pendientes de si haces la Gr11.",
-          "photo": "refugesansphoto.jpg",
-          "region": "A",
-          "altitude": "1550",
-          "cap_ete": "148",
-          "cap_hiver": "0",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            1.714103703941,
-            42.297119505732
-          ]
-        },
-        "properties": {
-          "name": "Refugi Prat d'Aguilo",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=835",
-          "descriptif": "refuge guarde toute l annee nuitee seule 19 reservation par mail feec refusonline com ou telephone 3497 364 16 81 tarifs 10 supplementaires en hiver sauf nuitee energie par butane et panneaux solaires douches place pour cuisine libre eau a l interieur et exterieur chauffage par radiateurs et gasoil lits superposes avec couvertures matelas wc pas de telephone partie hivernale matelas pas de couverture pas d eau pas de chauffage acces vehicules de la route puigcerda seu urgell a martinet prendre la route pour montella dans l entree route a droite et piste 15 km acces a pied par le couloir de cristal 6h de gosol par la sierra pedregosa 5h de montella 3h du refuge sant jordi par le col de pendis 4h du refuge estasen par la sierra pedregosa 4h ",
-          "commentaire": "Muy bien. Abierto incluso cuando no hay temporada de ski pero llamar antes. Buena comida. Pendientes de si haces la Gr11.",
-          "photo": "835_1320896818.jpg",
-          "region": "Montell",
-          "altitude": null,
-          "cap_ete": "32",
-          "cap_hiver": "10",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            0.984166,
-            42.596944
-          ]
-        },
-        "properties": {
-          "name": "Amitges",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=827",
-          "descriptif": "refuge garde accessible avec les 4x4 taxi pour le refuge hiver 12 places avec couvertures matelas poste emetteur et poele a gaz",
-          "commentaire": "Trés beau refuge certes,mais trop accéssible en dehors de la m",
-          "photo": "827_1443299722.jpg",
-          "region": "Espot",
-          "altitude": "2380",
-          "cap_ete": "66",
-          "cap_hiver": "12",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            0.0172,
-            42.57419
-          ]
-        },
-        "properties": {
-          "name": "Albergue Añisclo",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=814",
-          "descriptif": "albergue abierto todo el ano ",
-          "commentaire": "28 02 2021 .Devrait s'appeler \"orri de la pleta dels llops\".\r\nsympa, feu à éviter, laissé quelques commodités dans la cocotte, bon état général .",
-          "photo": "814_1321481223.jpg",
-          "region": "Fanlo",
-          "altitude": "1281",
-          "cap_ete": "36",
-          "cap_hiver": "36",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             0.873333,
             42.834444
           ]
@@ -110,28 +22,6 @@
           "cap_ete": "52",
           "cap_hiver": "12",
           "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -0.52869999,
-            42.78661
-          ]
-        },
-        "properties": {
-          "name": "Valle d'Aragon",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=802",
-          "descriptif": "auberge situee a candachu",
-          "commentaire": "Dormi la nuit 15 Juin. Un bâtiment massif, toujours en très bon état",
-          "photo": "802_1321523523.jpg",
-          "region": "A",
-          "altitude": "1550",
-          "cap_ete": "75",
-          "cap_hiver": "0",
-          "type_hebergement": "refuge garde toute l annee"
         }
       },
       {
@@ -161,28 +51,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            1.522835341429,
-            42.212602751253
-          ]
-        },
-        "properties": {
-          "name": "Refugi de l'Arp",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1702",
-          "descriptif": "refuge garde se renseigner sur le site pour les periodes de gardiennage le refuge dispose de 21 places chambres de 2 4 ou 8 personnes 2 salles de bains communes avec douches chaudes au premier etage se trouve la salle a manger avec salon cheminee espace pour enfants bibliotheque et jeux de societe location de velos wifi ",
-          "commentaire": "Cabane occupée en partie par les piquets, les sacs de sel et les déchets du berger. J'ai dû évacuer l'ensemble et le mettre sous une bâche à l'extérieur pour pouvoir dégager le bas-flanc, et réitérer l'opération en sens inverse le lendemain. Sinon cabane sommaire mais propre, la cheminée tire assez bien, un matelas pour dormir. ",
-          "photo": "15736107843668.jpg",
-          "region": "la Vansa i F",
-          "altitude": null,
-          "cap_ete": "21",
-          "cap_hiver": "21",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -0.3293,
             42.84611
           ]
@@ -205,28 +73,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -0.112375,
-            42.628728
-          ]
-        },
-        "properties": {
-          "name": "L'Atalaya",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=809",
-          "descriptif": "refuge restaurant de torla ",
-          "commentaire": "bonjour,le refuge l atalaya compte 31 places et son no de fax est 974 486 009 ,merci",
-          "photo": "refugesansphoto.jpg",
-          "region": "Torla-Ordesa",
-          "altitude": "1033m",
-          "cap_ete": "31",
-          "cap_hiver": "31",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -0.49120921091925,
             42.848455313443
           ]
@@ -242,28 +88,6 @@
           "cap_ete": "47",
           "cap_hiver": "14",
           "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -0.22753675344496,
-            42.779952581053
-          ]
-        },
-        "properties": {
-          "name": "Refugio de los ibones de Bachimaña",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1671",
-          "descriptif": "refuge guarde toute l annee reservation en ligne sur le site casiers et connexion internet ",
-          "commentaire": "àfaire :pic du Bergons",
-          "photo": "2015_1560797412.jpg",
-          "region": "Panticosa",
-          "altitude": "2200",
-          "cap_ete": "80",
-          "cap_hiver": "80",
-          "type_hebergement": "refuge garde toute l annee"
         }
       },
       {
@@ -337,72 +161,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -0.12426,
-            42.77951
-          ]
-        },
-        "properties": {
-          "name": "Refuge de Bayssellance",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=51",
-          "descriptif": "un refuge moderne et confortable qui a garde le charme de l ancien batiment la salle a manger de 60 couverts conserve ses authentiques tables en bois et dans le sas d entree apres avoir chausse vos sabots vous deposerez vos vivres de courses dans les paniers en osier d origine le nouveau refuge a conserve la salle a manger dans sa configuration historique et son architecture typiquement pyreneenne en ogive l espace destine aux usagers a ete agrandi avec des dortoirs plus petits et plus confortables et des sanitaires modernes l hiver 31 places avec couvertures poele et bois ",
-          "commentaire": "Conseil du jour:ne pas arriver apres 18 heures sinon entassement humains assurés....mais bonne ambiance malgré tout.Jy reviendrais!!!!",
-          "photo": "baysellance2.jpg",
-          "region": "Gavarnie-Gèdre",
-          "altitude": "2651",
-          "cap_ete": "58",
-          "cap_hiver": "19",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -0.83465539027282,
-            42.945106541646
-          ]
-        },
-        "properties": {
-          "name": "Refugio de Belagua",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=55",
-          "descriptif": "2023 refuge garde toute l annee sauf 24 et 25 decembre 2016 une grande salle avec une multitude de couchettes et un poele a bois 2009 et 2010 refuge en etat d abandon",
-          "commentaire": "gros travaux, cela va être superbe! Plus d’accès (hrp Août 2019)",
-          "photo": "16860009825211.jpg",
-          "region": "Isaba/Izaba",
-          "altitude": "1430",
-          "cap_ete": "56",
-          "cap_hiver": "56",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            0.61214447,
-            42.6839812
-          ]
-        },
-        "properties": {
-          "name": "Hospital de Benasque",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=821",
-          "descriptif": "ce n est plus un refuge mais un hotel",
-          "commentaire": "difficile de parler de refuge ! mais quel petit dejeuner !!!!!",
-          "photo": "821_1231156844.jpg",
-          "region": "Benasque",
-          "altitude": "1760",
-          "cap_ete": "125",
-          "cap_hiver": "0",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             1.86801984,
             42.6038208
           ]
@@ -461,50 +219,6 @@
           "altitude": "2005",
           "cap_ete": "0",
           "cap_hiver": "0",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            2.00375087,
-            42.5590757
-          ]
-        },
-        "properties": {
-          "name": "Refuge des Bouillouses",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=66",
-          "descriptif": "salle hors sac chauffable avec cuisine commune et nombreuses tables et bancs tres bonne cuisine brbrtarif la nuit de 43 a 75 fr selon le type de couchage pas de draps mais des couvertures brdemi pension 140 a 177 fr selon le type de couchage l hiver tous les tarifs sont augmentes de 10 fr ",
-          "commentaire": "Nuit dans le refuge d’hiver, poêle à bois en fonctionnement, 12 couchage avec matelas, couvertures et oreillers.\r\nCe bâtiment est différent du refuge d’été, il est situé derrière le refuge d’été avec accès via une porte métallique.  \r\n",
-          "photo": "bouillouses.jpg",
-          "region": "Les Angles",
-          "altitude": "2005",
-          "cap_ete": "56",
-          "cap_hiver": "15",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -0.1066875,
-            42.6948956
-          ]
-        },
-        "properties": {
-          "name": "Refugio de Bujaruelo",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=810",
-          "descriptif": "refuge guarde avec aire de camping plusieurs types de chambres et dortoirs ",
-          "commentaire": "Proposition localisation : \r\n42.69489562180649 -0.10668754577636719\r\nBenoît\r\n",
-          "photo": "810_1560441155.jpg",
-          "region": "Torla-Ordesa",
-          "altitude": "1338",
-          "cap_ete": "50",
-          "cap_hiver": "50",
           "type_hebergement": "refuge garde toute l annee"
         }
       },
@@ -601,28 +315,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0.93638,
-            42.570556
-          ]
-        },
-        "properties": {
-          "name": "Refuge Centraleta",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=87",
-          "descriptif": "refuge situe dans le massif des encatats un km avant le refuge d estany long ",
-          "commentaire": "2018-09-15 - Cabane Centraleta was closed. Its somehow connected with owner of Ref Estany LLong not far away",
-          "photo": "87_1443300371.jpg",
-          "region": "la Vall de Bo",
-          "altitude": "1920",
-          "cap_ete": "0",
-          "cap_hiver": "20",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             1.86326205,
             42.7548528
           ]
@@ -637,50 +329,6 @@
           "altitude": "1600",
           "cap_ete": "25",
           "cap_hiver": "25",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            0.92065219629976,
-            42.624178329787
-          ]
-        },
-        "properties": {
-          "name": "Refuge de Colomers",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=91",
-          "descriptif": "nouveau refuge termine et fonctionnel il est situe sur la rive ouest de l etang seconde photo ci dessus refuge hiver dortoirs 14 places chacun acces par l escalier une table tabourets l ancien refuge 1ere photo est desormais totalement ferme l ex refuge d hiver a ete detruit pour laisser sa place au nouveau refuge vous suivez ",
-          "commentaire": "Dues nits a la part lliure, març 2020. Tres espais: petit vestíbul per deixar trastos, sala amb taula i taburets metàl·lics, i dormitori amb lliteres corregudes i matalassos.",
-          "photo": "91_1287430488.jpg",
-          "region": "Naut Aran",
-          "altitude": "2130",
-          "cap_ete": "60",
-          "cap_hiver": "14",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            1.0012147865571,
-            42.519434314975
-          ]
-        },
-        "properties": {
-          "name": "Refuge de Colomina",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=93",
-          "descriptif": "quand le refuge est ouvert la partie avant du refuge sert de salle hors sac gratuite ",
-          "commentaire": "Une salle hors-sac grand luxe avec ses grandes baies vitrées! Bon accueil, même  juste de passage.",
-          "photo": "93_1443301034.jpg",
-          "region": "la Torre de Cabdella",
-          "altitude": "2395",
-          "cap_ete": "40",
-          "cap_hiver": "0",
           "type_hebergement": "refuge garde l ete partie hivernal"
         }
       },
@@ -711,28 +359,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            2.1111617001864,
-            42.337610515413
-          ]
-        },
-        "properties": {
-          "name": "Refugi Corral Blanc",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1707",
-          "descriptif": "refuge guarde situe sur la piste entre planoles et le collet de les barraques nuite 16 demi pension 36 douches chaudes apporter un sac de couchage location de raquettes a neige ",
-          "commentaire": "Mise à jour de la fiche de Les Corones.\r\nJ'y ai dormi le 25/10/10. De 0 à 10 cm de neige au sol. Averses faibles de neige par rafales de vent de nord, tempétueux.\r\nT° légèrement + dans la cabane le matin, sauf devant la porte : glace...\r\nPas vue de source (mais tout est gelé). Refait (un peu) de bois. P. R.",
-          "photo": "15744363575906.jpg",
-          "region": "Planoles",
-          "altitude": null,
-          "cap_ete": "36",
-          "cap_hiver": "36",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             2.46524773,
             42.5341553
           ]
@@ -755,50 +381,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            1.2314292846178,
-            42.087092291712
-          ]
-        },
-        "properties": {
-          "name": "Refugi Cortiuda",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1703",
-          "descriptif": "refuge guarde chambre et service de restauration reservation par telephone 34 678 44 26 39 ",
-          "commentaire": "Website: https://refugedescortalets.ffcam.fr/",
-          "photo": "15736418899619.jpg",
-          "region": "Peramola",
-          "altitude": null,
-          "cap_ete": "",
-          "cap_hiver": "",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            0.277149,
-            42.579771
-          ]
-        },
-        "properties": {
-          "name": "Albergue de Sin",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=816",
-          "descriptif": "refuge auberge de village ",
-          "commentaire": "Cabane visitée hier. Cabane fermée mais l'appendice à bois sur le côté peut servir d'abri, et surtout la \"véranda\" devant la cabane est ouverte : table, bancs.",
-          "photo": "20210703_892425.jpg",
-          "region": "Tella-Sin",
-          "altitude": "1218m",
-          "cap_ete": "30",
-          "cap_hiver": "0",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             1.94353579,
             42.6263523
           ]
@@ -813,116 +395,6 @@
           "altitude": "1970",
           "cap_ete": "70",
           "cap_hiver": "16",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            1.7485325689841,
-            42.187137400153
-          ]
-        },
-        "properties": {
-          "name": "Refugi Serra d'Ensija (Delgado Úbeda)",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=845",
-          "descriptif": "refuge garde en juillet et aout les weekends le reste de l annee et certaines vacances scolaires capacite 32 places hors gardiennage 4 places equipement partie hiver poele 2 lits bat flanc gardien e jornet esteve gestionnaire feec federacio entitats excursionistas catalunya tel gardien mobile 1",
-          "commentaire": "date : 2010-04-28\r\nLa partie aménagée est fermée. Donc plus de scie, coin et merlin. Seule la partie rustique était ouverte, mais de bonne qualité : bas flanc en bois de 4 places, cheminée qui chauffe bien. Bois de dépose accessible. Prise d'eau encore gelée mais ruisseaux proches.",
-          "photo": "15736453499885.jpg",
-          "region": "Saldes",
-          "altitude": null,
-          "cap_ete": "32",
-          "cap_hiver": "4",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            2.1924938538319,
-            42.336230569047
-          ]
-        },
-        "properties": {
-          "name": "Refugi Pla de l'Erola (ribes Altes)",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1708",
-          "descriptif": "petit refuge guarde seulement 8 couchages mais service de bar et restauration ouvert pendant les vacances periodes catalanes et les week ends sans neige pas d informations sur une eventuelle partie ouverte hors guardiennage se renseigner ",
-          "commentaire": "no coment",
-          "photo": "15744387548281.jpg",
-          "region": "Ribes de Freser",
-          "altitude": null,
-          "cap_ete": "8",
-          "cap_hiver": "0",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            0.49975734,
-            42.73073269
-          ]
-        },
-        "properties": {
-          "name": "Refuge d'Espingo",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=121",
-          "descriptif": "",
-          "commentaire": "Nous y avons passé la nuit du nouvel an à 2. Pas de cheminée dans la salle hors sac, dommage... mais dortoir très confortable.",
-          "photo": "espingo2.jpg",
-          "region": "Oô",
-          "altitude": "1967",
-          "cap_ete": "60",
-          "cap_hiver": "15",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            1.828659,
-            42.324918
-          ]
-        },
-        "properties": {
-          "name": "Refugi del serrat de les esposes",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1588",
-          "descriptif": "refuge garde demi pension 39 pension complete 49 refuge appartenant a la ville de riu ouvert en saison et sur reservation 30 places 8 places de refuge libre situe sur le grau de l os a moixero service de cuisine et cheminee lits superposes avec matelas il y a un espace avec des barbecues et des tables devant le refuge on y accede par une piste forestiere depuis le riu de cerdanya 7 km information tel refuge 34 669 75 7266 34 973 510 700",
-          "commentaire": "OCCUPEE  PAR UN BERGER   LE 25/09/04 ",
-          "photo": "2002_1547835354.jpg",
-          "region": "Riu de Cerdanya",
-          "altitude": "1511",
-          "cap_ete": "30",
-          "cap_hiver": "8",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            0.0123387,
-            42.7199364
-          ]
-        },
-        "properties": {
-          "name": "Refuge des Espuguettes",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=125",
-          "descriptif": "prix d une nuitee adulte 10 10 pour les de 12 ans 6 5 la 1 2 pension 32 ptit dej 5 repas du soir 17 toute la journee sandwich en cas boissons repas le bloc sanitaire est equipe de 2 lavabos et d un wc adresse couriel lesespuguettes gmail com",
-          "commentaire": "Partie hiver : 10 matelas mais pas autant de couvertures, table, tabourets, qq magazines, pas de cheminée ou de poêle. Eau à proximité.",
-          "photo": "125_1370804208.jpg",
-          "region": "Gavarnie-Gèdre",
-          "altitude": "2027",
-          "cap_ete": "54",
-          "cap_hiver": "8",
           "type_hebergement": "refuge garde l ete partie hivernal"
         }
       },
@@ -975,50 +447,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0.48528717460887,
-            42.675478667606
-          ]
-        },
-        "properties": {
-          "name": "Refuge d'Estos",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=137",
-          "descriptif": "eau courante chaude et froide douche couvertures bar restauration possibilite de cuisiner",
-          "commentaire": "Pareil en 2021!\r\nNourriture plus que rationnée: soupe, 100g de porc, yaourt. Voilà le repas du soir!\r\nTout le monde remange avec ses propres provisions!",
-          "photo": "estos1.jpg",
-          "region": "Benasque",
-          "altitude": "1895",
-          "cap_ete": "115",
-          "cap_hiver": "115",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            1.8163889,
-            42.465
-          ]
-        },
-        "properties": {
-          "name": "Refuge de la Feixa",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1006",
-          "descriptif": "refuge garde bas flanc en bois avec matelas",
-          "commentaire": "mai 2012\r\n\r\nfixation  de la porte c\\'était cassé\r\n",
-          "photo": "2000_1223884453.jpg",
-          "region": "Ger",
-          "altitude": "2162",
-          "cap_ete": "12",
-          "cap_hiver": "12",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             1.48932186,
             42.6650139
           ]
@@ -1034,28 +462,6 @@
           "cap_ete": "45",
           "cap_hiver": "15",
           "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -0.71164386873971,
-            42.787370026424
-          ]
-        },
-        "properties": {
-          "name": "Refugio de Gabardito",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=799",
-          "descriptif": "refuge garde accessible en voiture situe dans la vallee de hecho ouvert dejuin a septembre et certains weekend et ponts se renseigner par telephone ou mail gabardito gmail com",
-          "commentaire": "Proposition de localisation : \r\n42.78744876311559,-0.7117080688476562\r\n\r\nMerci pour vote travail\r\nBenoît",
-          "photo": "799_1555027698.jpg",
-          "region": "Valle de Hecho",
-          "altitude": "1360",
-          "cap_ete": "45",
-          "cap_hiver": "0",
-          "type_hebergement": "refuge garde toute l annee"
         }
       },
       {
@@ -1085,28 +491,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0.015053003889975,
-            42.663282791028
-          ]
-        },
-        "properties": {
-          "name": "Refuge de Goriz",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=154",
-          "descriptif": "eau courante chaude et froide douche couvertures bar restauration possibilite de cuisiner pas tres evident boutique",
-          "commentaire": "Small correction on LatLon coordinates:\r\n42.66329,  0.01501",
-          "photo": "goriz3.jpg",
-          "region": "Fanlo",
-          "altitude": "2200",
-          "cap_ete": "96",
-          "cap_hiver": "96",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             1.5315630411783,
             42.753728491051
           ]
@@ -1121,28 +505,6 @@
           "altitude": "1485",
           "cap_ete": "14",
           "cap_hiver": "14",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            1.7242795279172,
-            42.258011928934
-          ]
-        },
-        "properties": {
-          "name": "Refugi casa del gresolet",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1704",
-          "descriptif": "refuge guarde nuitee seule 16 5 apporter un sac de couchage repas et boissons electricite wifi douches eau chaude droit de cuisiner et salle libre chambres generales avec matelas et couvertures aire de pic nic tables couvertes et barbecues a proximite reservation par telephone ou mail refugicasadelgresolet hotmail com",
-          "commentaire": "Passé le 13 juin 2020, par mauvais temps. Ça suinte à plusieurs endroit sous la roche et le sol est en pente : très sommaire pour y passer la nuit.\r\nIl y a suffisamment de hauteur pour se tenir assis et on est bien protégé du vent.",
-          "photo": "15736520139647.jpg",
-          "region": "Saldes",
-          "altitude": null,
-          "cap_ete": "45",
-          "cap_hiver": "",
           "type_hebergement": "refuge garde toute l annee"
         }
       },
@@ -1195,34 +557,12 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0.806666,
-            42.818056
-          ]
-        },
-        "properties": {
-          "name": "Refuge forestier de Honderia",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1116",
-          "descriptif": "refuge garde plutot chalet de montagne car accessible en voiture situe au fond de la vallee de canejan brnuitee bar restau ",
-          "commentaire": "ATTENTION : refuge fermé le 19 juillet 2018 pour aucune raison apparente. Apparemment ce refuge est souvent fermé meme en été… Avons dû dormir dehors...",
-          "photo": "1116_1252964804.jpg",
-          "region": "Canejan",
-          "altitude": "1010",
-          "cap_ete": "",
-          "cap_hiver": "",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -0.17352838698458,
             42.866072415848
           ]
         },
         "properties": {
-          "name": "Refuge de Ilheou. Raymond Ritter",
+          "name": "Refuge de Ilheou",
           "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=171",
           "descriptif": "ouvert du 1er juin au 30 septembre pas de partie hiver ferme restauration a toute heure d la journee terrasse panoramique sur le lac tel port du gardien garrigues guilhem 06 83463175 hors saison 0679082064 en saison mail guilhem garrigues gmail com",
           "commentaire": "Excellent refuge, un accueil très sympathique, une table nettement meilleure que d'autres refuges, voire que certains restaurants. Le tout dans un cadre grandiose, au bord du lac. Une halte quasi obligatoire sur le GR10 !",
@@ -1232,28 +572,6 @@
           "cap_ete": "22",
           "cap_hiver": "0",
           "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            1.656387,
-            42.495003
-          ]
-        },
-        "properties": {
-          "name": "Refuge Illa",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=585",
-          "descriptif": "ouverture ete du 1er juin a fin octobre ouverture hiver du 1er decembre a fin avril www refuges info point 5435 cabane non gardee andorre refuge de l illa ",
-          "commentaire": "Très beau refuge, très agréablement agencé.\r\nCependant, impossible de dormir la nuit : trop chaud, impossible d'ouvrir les fenêtres pour rafraichir et portes (même de secours !!) irrémédiablement fermées - impossible de sortir prendre l'air la nuit - sans compter le danger en cas d'incendie !! Gardien moyennement agréable réceptif à nos doléances lorsqu'on lui a signalé le problème...",
-          "photo": "585_1549965602.jpg",
-          "region": "Encamp",
-          "altitude": "2480",
-          "cap_ete": "60",
-          "cap_hiver": "60",
-          "type_hebergement": "refuge garde toute l annee"
         }
       },
       {
@@ -1327,72 +645,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            1.804956,
-            42.294103
-          ]
-        },
-        "properties": {
-          "name": "Sant Jordi Font del Faig",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=843",
-          "descriptif": "refuge garde",
-          "commentaire": "Ja no hi ha lliteres metal.liques.",
-          "photo": "843_1468243959.jpg",
-          "region": "",
-          "altitude": "1640",
-          "cap_ete": "44",
-          "cap_hiver": "0",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            1.044444,
-            42.544722
-          ]
-        },
-        "properties": {
-          "name": "Refuge Josep Maria Blanc",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=182",
-          "descriptif": "refuge garde situe dans les encatats",
-          "commentaire": "Ja no hi ha lliteres metal.liques.",
-          "photo": "182_1249896951.jpg",
-          "region": "Espot",
-          "altitude": "2350",
-          "cap_ete": "60",
-          "cap_hiver": "20",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            1.7155784368515,
-            42.607372832359
-          ]
-        },
-        "properties": {
-          "name": "Refugi de Juclar",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=183",
-          "descriptif": "tres beau refuge agrandi en 2006 propre et fonctionnel cheminee mais pas de bois aux alentours gardiennage en ete debut juin a fin septembre heliportage nombreux bags wc bios station d epuration eaux usees en acces libre 2 sommiers metalliques cheminee de 9m2 ",
-          "commentaire": "Dormi dans la partie hiver le 20 janvier 2022 à 4 lors d'une traversée des Pyrénées à skis. \r\nEntrée complètement bouchée par la neige qui avec le vent vient se déposer contre la porte (une pelle à disposition).\r\nLa capacité hiver est loin d'être de 12, plutôt 6, il y a deux lits simple (métalliques) superposé et au dessus 4 places.\r\n\r\nAssez restreint en bas, une table et une cheminée qui fume.\r\n\r\nA noter que le béton autour de l'encadrement de la porte se désagrège complètement, résultat la porte bascule vers le bas. et vient buter contre l'encadrement. Il est très très difficile de la fermer, seul je pense que c'est impossible. On a du se servir du banc comme d'un bélier ... Et il faut faire la même opération pour sortir en espérant que la porte de rebascule pas. Nous avons rencontré par hasard la personne en charge de l'entretien de tous les refuges Andorrans, c'est un problème connu.",
-          "photo": "183_1220386672.jpg",
-          "region": "Canillo",
-          "altitude": "2300",
-          "cap_ete": "45",
-          "cap_hiver": "12",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -0.66602494426862,
             42.950219010321
           ]
@@ -1459,94 +711,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -0.79955525628507,
-            42.898179232637
-          ]
-        },
-        "properties": {
-          "name": "Refuge de Linza",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=205",
-          "descriptif": "refuge garde",
-          "commentaire": "Le numéro de téléphone a changé : nouveau numéro = (974) 34 82 89",
-          "photo": "205_1485204393.jpg",
-          "region": "Ans",
-          "altitude": "1320",
-          "cap_ete": "110",
-          "cap_hiver": "110",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -0.6340592,
-            42.7641244
-          ]
-        },
-        "properties": {
-          "name": "Refuge de Lizara",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=208",
-          "descriptif": "chauffage douche baignoire au bord de la route contact mail info arroba refugiodelizara com",
-          "commentaire": "Bonsoir:\r\nLizara a un nouveau  telefon c'est 974348433, le nom du garde: Xaro et Rafa , capacité 75 et l'adresse electronic www.refugiodelizara.com\r\n\r\nMerci.\r\n",
-          "photo": "208_1474754949.jpg",
-          "region": "Arag",
-          "altitude": "1540",
-          "cap_ete": "75",
-          "cap_hiver": "75",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            0.68325565758006,
-            42.596170596889
-          ]
-        },
-        "properties": {
-          "name": "Refuge du Cap de Llauset",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1423",
-          "descriptif": "nouveau refuge garde ouvert en 2016 situee dans le sud du massif de la maladetta",
-          "commentaire": "Joli refuge,la partie séjour/repas est vaste et claire.\r\n Gardiens sympas\r\n Chambres riquiqui!!! douche et salle de bain dans la chambre! Par contre pas d'étagères, peu de porte manteaux, peu d'espace pour se remuer et poser son sac,dommage.",
-          "photo": "1423_1504175939.jpg",
-          "region": "Montanuy",
-          "altitude": "2425",
-          "cap_ete": "30",
-          "cap_hiver": "30",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            0.948638,
-            42.572321
-          ]
-        },
-        "properties": {
-          "name": "Refuge de l'Estany Llong",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=133",
-          "descriptif": "refuge garde dans les encantats accessible malheureusement en ete en taxi 4x4 ",
-          "commentaire": "Passé le 17/10/2021. Cabane ouverte, en bon état. 8 places sur bas-flancs, mais concrètement 4 place à l'intérieur. Matelas, table, bancs, cheminée, eau, bois à 5 minutes. Un appentis a été ajouté sur la droite depuis que la photo a été prise. Romjer.",
-          "photo": "133_1249895446.jpg",
-          "region": "la Vall de Bo",
-          "altitude": "1985",
-          "cap_ete": "57",
-          "cap_hiver": "0",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             2.18299999,
             42.67799999
           ]
@@ -1569,50 +733,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            1.0091011425666,
-            42.57885588506
-          ]
-        },
-        "properties": {
-          "name": "Refuge Ernest Mallafre",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=215",
-          "descriptif": "refuge garde dans les encatats situe au poied des aiguilles du meme nom accessible en 4x4 en ete",
-          "commentaire": "Pas de robinet d'eau potable : résultat un peu malade les jours suivants",
-          "photo": "215_1249896109.jpg",
-          "region": "Espot",
-          "altitude": "1885",
-          "cap_ete": "28",
-          "cap_hiver": "0",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            1.786122,
-            42.464397
-          ]
-        },
-        "properties": {
-          "name": "Refugi de Malniu",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=836",
-          "descriptif": "refuge garde l ete et les week ends se renseigner et reserver sur le site accessible en voiture par une piste payante 3 conscernant la partie non guarde la partie ouverte est la partie basse une petite table un fauteuil plastique etageres de rangement un poele eau devant le refuge source captee 1 matelas mousse une natte sol en carrelage ",
-          "commentaire": "Bonjour,\r\nPassage le 07/11/2008.\r\nToujours très propre. Bois au sec. Penser à prendre une scie, hâche, merlin ou autre coin, les rondins (à l'extérieur sont trop long/gros pour le poêle).\r\nPierre R.",
-          "photo": "836_1223886352.jpg",
-          "region": "Meranges",
-          "altitude": "2138",
-          "cap_ete": "54",
-          "cap_hiver": "4",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             2.40753887,
             42.50134649
           ]
@@ -1627,28 +747,6 @@
           "altitude": "1692",
           "cap_ete": "53",
           "cap_hiver": "53",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            0.39205590910576,
-            42.567794702014
-          ]
-        },
-        "properties": {
-          "name": "Refugio Marradetas",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1457",
-          "descriptif": "refuge garde situe au col de sahun sur la longue piste entre vallee de venasque et vallee de plan refuge gere par ttaventura",
-          "commentaire": "Passé le 15 juillet 2018. Cabane refaite mais presque totalement vide : une table et une cheminée. Sol en pierre et sec. Romjer",
-          "photo": "1457_1494767621.jpg",
-          "region": "Plan",
-          "altitude": "",
-          "cap_ete": "",
-          "cap_hiver": "",
           "type_hebergement": "refuge garde l ete partie hivernal"
         }
       },
@@ -1693,28 +791,6 @@
           "altitude": "2278",
           "cap_ete": "35",
           "cap_hiver": "8",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            0.99462747,
-            42.7593649
-          ]
-        },
-        "properties": {
-          "name": "Montgarri",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=825",
-          "descriptif": "tres propre il est situe dans la cours du sanctuaire ouvert pratiquement toute l annee sauf entre octobre et decembre ou il est preferable de telephonner pour s assurer de la presence du gardien service de restauration de type familiale tres correct acessible par piste relativement carossable depuis baquera ou isil plus long depuis la france en dehors des periodes d enneigement et a ski ou raquettes en hiver ",
-          "commentaire": "remarque: aire de bivouac avec 2 cabines wc de l'autre côté du torrent. Traverser le pont, c'est tout de suite à droite.",
-          "photo": "825_1443297397.jpg",
-          "region": "Naut Aran",
-          "altitude": "1632",
-          "cap_ete": "16",
-          "cap_hiver": "0",
           "type_hebergement": "refuge garde l ete partie hivernal"
         }
       },
@@ -1833,160 +909,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0.491902,
-            42.512172
-          ]
-        },
-        "properties": {
-          "name": "Albergue Pájaro Loco",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=819",
-          "descriptif": "refuge auberge de village ",
-          "commentaire": "Actuellement plus de matelas. Torrent très proche, le bois est bien plus éloigné (donc multiples allers-retours à prévoir en hiver). Quelques souris timides, mais une très bonne cabane avec superbe vue! ",
-          "photo": "refugesansphoto.jpg",
-          "region": "Castej",
-          "altitude": "960",
-          "cap_ete": "40",
-          "cap_hiver": "0",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            1.905981,
-            42.293166
-          ]
-        },
-        "properties": {
-          "name": "Xalet refugi del Coll de Pal",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1587",
-          "descriptif": "refuge garde 50 places situe sur le cote droit de la route entre baga dans le coll de pal 2 km avant sa fin service de restauration ",
-          "commentaire": "Refugio abandonado y cerrado, no está disponible para dormir, es de la diputación de Barcelona, sólo lo abren para excursiones de colegios.",
-          "photo": "1587_1548294324.jpg",
-          "region": "Guardiola de Bergued",
-          "altitude": "1.925 ",
-          "cap_ete": "50",
-          "cap_hiver": "",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            1.44939,
-            42.57902
-          ]
-        },
-        "properties": {
-          "name": "Refuge de La Coma Pedrosa",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=96",
-          "descriptif": "situe en plein millieu du nouveau parc natural de les valls del coma pedrosa au pied du plus haut sommet d andorre et qui lui a donne son nom il est a cote de l estany de les truites i sur le gr11 et grp qui fait le tour de l andorre ",
-          "commentaire": "Refuge d'hiver attenant au refuge principal : 4/6 places ,bien entretenu ,bon equipement ,bon plan pour le ski de rando",
-          "photo": "96_1321134774.jpg",
-          "region": "La Massana",
-          "altitude": "2250",
-          "cap_ete": "60",
-          "cap_hiver": "4",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            1.716205,
-            42.245281
-          ]
-        },
-        "properties": {
-          "name": "Lluís Estasèn Pedraforca",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=842",
-          "descriptif": "situe au pied du pedraforca a 15mn du parking de gresollet",
-          "commentaire": "Refuge Lluis Estasen\r\nGardé toute l'année excepté qques rares jrs où il reste ouvert.\r\nLe gardien parle français.\r\n80 places été comme hiver\r\nVisité le 14/01/2008",
-          "photo": "842_1477636359.jpg",
-          "region": "Saldes",
-          "altitude": "1640",
-          "cap_ete": "90",
-          "cap_hiver": "0",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            1.598849,
-            42.456614
-          ]
-        },
-        "properties": {
-          "name": "Refugi Estanys de La Pera",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=833",
-          "descriptif": "refuge guarde depuis 1957 situe sur le versant sud du port de perafita pres des estanys de la pera ",
-          "commentaire": "New Hut",
-          "photo": "833_1558095813.jpg",
-          "region": "Lles de Cerdanya",
-          "altitude": "2357",
-          "cap_ete": "36",
-          "cap_hiver": "36",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            1.687812,
-            42.526024
-          ]
-        },
-        "properties": {
-          "name": "Refugi Restaurant dels Pessons",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1611",
-          "descriptif": "situe au premier lac du cirque dels pessons note refugi sur certaines cartes il n y a pas de couchage seulement un restaurant d altitude accessible en 30 min depuis le parking de la station grau roig ",
-          "commentaire": "Cabane du Pesson ouverte avec 10/12 places, pas de matelas. Cheminée mais on n'a pas fait de feu. Pas d'eau à proximité immédiate (c'est tout gelé), prévoir assez de gaz pour faire fondre de la neige (ou faut marcher un peu).\r\nUn peu crado, beaucoup de déchets, et habitée par de nombreuses créatures qui chient partout et sortent la nuit pour fouiller dans les sacs :)",
-          "photo": "2000_1549880343.jpg",
-          "region": "Encamp",
-          "altitude": "2300",
-          "cap_ete": "0",
-          "cap_hiver": "0",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -0.23316966854938,
-            42.762594491615
-          ]
-        },
-        "properties": {
-          "name": "Hotel Casa de Piedra",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=86",
-          "descriptif": "eau courante chaude et froide douche couvertures bar restauration possibilite de cuisiner boutique telephone",
-          "commentaire": "On a dormi à 4 dans la cabane. Des pierres pour s'assoir, une table (cassée). On a mis du bois, mais impossible de garder la cheminée en route: trop de fumée reste à l'interieur.",
-          "photo": "86_1292452204.jpg",
-          "region": "Panticosa",
-          "altitude": "1636",
-          "cap_ete": "108",
-          "cap_hiver": "108",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             1.3966548,
             42.6912687
           ]
@@ -2036,7 +958,7 @@
           ]
         },
         "properties": {
-          "name": "Refuge du Portillon (Jean Arlaud)",
+          "name": "Refuge du Portillon",
           "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=268",
           "descriptif": "en ete nuitee repas et boissons a tout heurerefuge hievr grand confort lumiere et petit radiateur electrique dans la cuisine tables et banc pour une 15 personnes pelles a neige ",
           "commentaire": "Le tel. du refuge : 05 61 79 38 15",
@@ -2045,94 +967,6 @@
           "altitude": "2570",
           "cap_ete": "80",
           "cap_hiver": "32",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -0.33414958925098,
-            42.959461212995
-          ]
-        },
-        "properties": {
-          "name": "Chalet-Refuge CAF de Gourette",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=1718",
-          "descriptif": " 32 places en dortoirs de 12 8 et 6 une salle de restauration et un local a skis ou velos chauffe et securise demi pension ainsi que des paniers repas a emporter pour les balades ",
-          "commentaire": "Il s'agît d'un refuge gardé, avec toutes les comodités: Ouverture : ouvert toute l'année.\r\nCapacité : 68 places en chambres de 2, 4, 10, 12 et 32 lits.\r\nFonctionnement : il y a un service de restauration avec cuisine maison et traditionnelle de la Cerdagne, chauffage, cheminée, cafétéria - bar, terrasse, parking et Wi-Fi.\r\n\r\nAdresse: Cap del Rec\r\n\r\nVillage: Lles de Cerdanya\r\n\r\nTéléphone 973 29 31 00\r\n\r\nWeb: https://llescerdanya.com\r\n\r\nCourrier électronique refugi@lles.net\r\n\r\nService Acceptent les animaux, Bar, Garde des skis, Garde des vélos, Location de services touristiques, Parking couvert, Produit local, Restaurant, Wifi.   \r\nhttps://www.cerdanya.org/fr/allotjament/cap-del-rec/",
-          "photo": "15770163917615.png",
-          "region": "Eaux-Bonnes",
-          "altitude": "",
-          "cap_ete": "32",
-          "cap_hiver": "32",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            0.65081160210127,
-            42.669333696425
-          ]
-        },
-        "properties": {
-          "name": "Refuge de La Rencluse",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=283",
-          "descriptif": "grand refuge entierement renove tres frequente reservez avant ",
-          "commentaire": "https://www.alberguesyrefugios.com/larenclusa/",
-          "photo": "283_1231154621.jpg",
-          "region": "Benasque",
-          "altitude": "2130",
-          "cap_ete": "92",
-          "cap_hiver": "92",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -0.28764150072954,
-            42.816975831352
-          ]
-        },
-        "properties": {
-          "name": "Refuge Respomuso Ou Piedrafita",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=284",
-          "descriptif": "enorme refuge garde comme les espagnols les aiment bien bouffe pas terrible selon un ami guide qui passe la regulierement dans la journee bar permanent avec une tireuse a bieres achat de petits vivres gateau ",
-          "commentaire": "bâtiment très confortable, un bloc sanitaire par chambre avec douche chaude.\r\ngardien juste sympa et nourriture insipide\r\napportez de la nourriture pour terminer vos repas",
-          "photo": "respomuso2.jpg",
-          "region": "Sallent de G",
-          "altitude": "2150",
-          "cap_ete": "160",
-          "cap_hiver": "160",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            1.24222,
-            42.406944
-          ]
-        },
-        "properties": {
-          "name": "Comes de Rubio",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=832",
-          "descriptif": "refuge a l est de la torreta de l orri com www refugicomesderubioportal refugi comes de rubio refuge 50 places prive garde selon periode ou sur reservation une partie ouverte en permanence avec cheminee bois abondant a proximite table chaises mais pas de bas flanc ",
-          "commentaire": "Cabane visitée mi juin 2022. Bon état général, la cheminée a été remplacée par une \"table\" en pierre. Quelques roches servent de banc et tabouret. Possibilité de rentrer à 4 dedans mais rien pour y dormir. De nombreux déchets sont présents autour de la cabane.",
-          "photo": "832_1401355973.jpg",
-          "region": "Soriguera",
-          "altitude": "1965",
-          "cap_ete": "50",
-          "cap_hiver": "5",
           "type_hebergement": "refuge garde l ete partie hivernal"
         }
       },
@@ -2163,28 +997,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0.963293,
-            42.621071
-          ]
-        },
-        "properties": {
-          "name": "Refuge de Saboredo",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=297",
-          "descriptif": "refuge garde des encantats sans doute le plus petit recouvert par la neige en hiver partie hiver una vez cerrado queda una parte libre abierta equipada con colchon mantas y radio de emergencia",
-          "commentaire": "Ce jeudi 27 octobre 2016 nous avons eu la désagréable surprise de trouver le refuge d'hiver de Saboredo hermétiquement fermé; heureusement il faisait beau! Je savais que le refuge, récemment agrandi, n'était pas gardé, mais je pensais que le refuge d'hiver était toujours dispo. \r\nUn petit appentis en planche récemment construit contre le refuge est cependant ouvert et permet de poser 4 ou 5 matelas sur le sol; mais les planches ne sont pas jointives et cet hébergement de fortune sera vite rempli de neige.\r\n",
-          "photo": "297_1474490120.jpg",
-          "region": "Alt ",
-          "altitude": "2310",
-          "cap_ete": "21",
-          "cap_hiver": "21",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -0.033254110218583,
             42.695865521676
           ]
@@ -2199,28 +1011,6 @@
           "altitude": "2587",
           "cap_ete": "38",
           "cap_hiver": "14",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            1.564112,
-            42.622522
-          ]
-        },
-        "properties": {
-          "name": "Refuge Borda de Sorteny",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=594",
-          "descriptif": "refuge garde de juin a septembre week end en mai et octobre a reserver mail refugidesorteny gmail com ",
-          "commentaire": "Great refuge, we were doing the Coronallacs. Great rooms, wc´s , hot water, great food etc. - Jun 2019",
-          "photo": "594_1244155070.jpg",
-          "region": "Ordino",
-          "altitude": "1965",
-          "cap_ete": "50",
-          "cap_hiver": "8",
           "type_hebergement": "refuge garde l ete partie hivernal"
         }
       },
@@ -2251,28 +1041,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -0.53099108225522,
-            42.678444443998
-          ]
-        },
-        "properties": {
-          "name": "Albergue Triton",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=801",
-          "descriptif": "restaurant auberge de jeunesse de villanua chambre dortoirs nuitee 18 pension complete 37 ",
-          "commentaire": "Visitée seulement pour le restau (plusieurs fois d'ailleurs)....\r\nTip-top, rien a redire, bonne cuisine traditionnelle, accueil sympa,donc pas hésitation!!!",
-          "photo": "15767992056508.jpg",
-          "region": "Villan",
-          "altitude": null,
-          "cap_ete": "54",
-          "cap_hiver": "",
-          "type_hebergement": "refuge garde toute l annee"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             0.64274536,
             42.6996404
           ]
@@ -2295,50 +1063,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0.877403,
-            42.60531799
-          ]
-        },
-        "properties": {
-          "name": "Refuge Ventosa I Calvell",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=324",
-          "descriptif": "1 nuit 1500 pts caf 600 pts wc et douche couvertures telephone poste de radio service de repas et boissons partie hivernale annexe de huit places equipee avec de couvertures et un emetteur d emergence mais pas de table ni de bancs ou tabourets ",
-          "commentaire": "Dormi hier avec un groupe pyrénées-team. La partie hiver est un peu petite et surtout il manque une table avec bancs ou tabouyrets. On a mangé par terre assis en cercle. Neige toute la nuit. Cyril D.",
-          "photo": "324_1443300108.jpg",
-          "region": "la Vall de Bo",
-          "altitude": "2220",
-          "cap_ete": "70",
-          "cap_hiver": "8",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            0.37724778042501,
-            42.660655552256
-          ]
-        },
-        "properties": {
-          "name": "Refuge de Viados",
-          "url": "http://www.pyrenees-refuges.com/fr/affiche.php?numenr=325",
-          "descriptif": "refuge garde au pied des posets et du scrader accessible en voiture par une longue piste un peu difficile a la fin et tres dur de se garer ",
-          "commentaire": "passé en journée le 19/10/13\r\nrefuge hiver ouvert, propre, 1 partie cuisine avec table basse et bancs, 1 partie couchage avec toujours 6 vrais lits et maintenant quelques couvertures\r\nNico Z.",
-          "photo": "325_1292444631.jpg",
-          "region": "Gista",
-          "altitude": "1740",
-          "cap_ete": "75",
-          "cap_hiver": "6",
-          "type_hebergement": "refuge garde l ete partie hivernal"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -0.19472320163783,
             42.820088301349
           ]
@@ -2349,7 +1073,7 @@
           "descriptif": "le refuge est situe dans une des plus belles vallees des pyrenees il porte le nom d edouard wallon pyreneiste francais du xix siecle il permet de rayonner dans toute cette superbe region a 1865m le refuge est situe sur la hrp haute route pyreneenne d un acces facile et sans risque majeur meme l hiver il est le point de depart ideal pour de nombreuses randonnees",
           "commentaire": "Passé au refuge ce mois d'août. Nous y avons commandé 3 bières avant d'aller poser notre bivouac à quelques mètres du refuge.\r\nUn collègue y est retourné pour acheter un paquet de chips histoire d'accompagner les bières. Le gérant à refusé de le lui vendre, prétextant &quot;ne rien avoir à y gagner&quot;. Je laisse les personnes qui liront mon post savourer le commentaire &quot;sic&quot;\r\n\r\n",
           "photo": "wallon.jpg",
-          "region": "Cauterets",
+          "departement": "65",
           "altitude": "1866",
           "cap_ete": "113",
           "cap_hiver": "14",

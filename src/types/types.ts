@@ -24,7 +24,6 @@ export type GeoJSONFeature = {
 export type FormattedShelters = {
     name: string;
     altitude: string;
-    department: string;
     latitude: number;
     longitude: number;
 }[];
@@ -46,4 +45,3 @@ export type CustomMapPopupProps = {
 export type CodeToDepartmentType = {
     [key: string]: string;
 };
-

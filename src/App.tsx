@@ -8,7 +8,6 @@ import { useFetch } from "./services/useFetch.tsx";
 const App = () => {
     const { data } = useFetch("/data/shelters.geojson");
     const { setShelters } = useSheltersStore();
-
     useEffect(() => {
         const formatShelters = async () => {
             if (data) {

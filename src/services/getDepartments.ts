@@ -9,10 +9,12 @@ const codeToDepartment: CodeToDepartmentType = {
     "64": "Pyrénées-Atlantiques"
 };
 
+
 export const getDepartments = async (latitude: number, longitude: number): Promise<string> => {
     try {
         const response = await fetch(`https://geo.api.gouv.fr/communes?lat=${latitude}&lon=${longitude}`);
         const data = await response.json();
+
         if (data.length > 0) {
             const codeDepartment = data[0].codeDepartement;
             const departmentName = codeToDepartment[codeDepartment] || "Inconnu";
