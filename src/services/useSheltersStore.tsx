@@ -5,8 +5,10 @@ import { FormattedShelters, SheltersStore } from "../types/types";
 export const useSheltersStore = create<SheltersStore>((set) => ({
     shelters: [],
     searchQuery: "",
+    selectedDepartment: "All",
     setShelters: (data: FormattedShelters) => {
         set({ shelters: data });
     },
-    setSearchQuery: (query: string) => set({ searchQuery: query })
+    setSearchQuery: (query: string) => set({ searchQuery: query }),
+    setSelectedDepartment: (department: string) => set({ selectedDepartment: department })
 }));

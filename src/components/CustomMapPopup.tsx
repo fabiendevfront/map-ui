@@ -26,7 +26,7 @@ const CustomMapPopup = ({ shelter }: CustomMapPopupProps) => {
                 <h3 className="text-2xl font-bold text-white text-center">{shelter.name}</h3>
             </div>
             <div className="p-4">
-                <p><span className="text-terciary font-bold">Département:</span>{department}</p>
+                <p><span className="text-terciary font-bold">Département:</span> {department}</p>
                 <p><span className="text-terciary font-bold">Altitude:</span> {shelter.altitude !== "Inconnu" ? shelter.altitude + "m" : "Inconnu"}</p>
                 <p className="text-terciary font-bold">
                                     Voir la meteo:

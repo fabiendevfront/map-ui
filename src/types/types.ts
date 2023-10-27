@@ -9,14 +9,11 @@ export type GeoJSONFeature = {
         name: string;
         url: string;
         descriptif: string;
-        commentaire: string;
-        photo: string;
         region: string;
         altitude: string | null;
         cap_ete: string;
         cap_hiver: string;
         type_hebergement: string;
-        department?: string;
     };
 };
 
@@ -26,14 +23,18 @@ export type FormattedShelters = {
     altitude: string;
     latitude: number;
     longitude: number;
+    region: string;
+    url: string;
 }[];
 
 // Represents the shape of the shelter data store
 export type SheltersStore = {
     shelters: FormattedShelters;
     searchQuery?: string;
+    selectedDepartment: string;
     setShelters: (data: FormattedShelters) => void;
     setSearchQuery: (query: string) => void;
+    setSelectedDepartment: (department: string) => void;
 };
 
 // Represents props for the CustomMapPopup component, including a single shelter
